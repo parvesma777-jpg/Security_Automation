@@ -1,0 +1,9 @@
+SOC SECURITY AUTOMATION REPORT
+Generated On: 2026-02-09 05:47:48.551730
+========================================
+
+IP: 192.168.1.10
+Type: Brute Force Attack
+Attempts: 5
+Reputation: Unknown
+----------------------------------------
